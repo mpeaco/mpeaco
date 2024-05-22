@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **mark.peacock@students.plymouth.ac.uk**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
