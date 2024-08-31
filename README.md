@@ -8,7 +8,7 @@ Aspiring Software Engineer with an interest in all things Data Science!
 - 👨‍💻 All of my projects are available at [https://github.com/mpeaco](https://github.com/mpeaco)
 - My kaggle profile: **https://www.kaggle.com/markpeacock** to see my notebooks and competition attempts!
 
-- 📫 How to reach me **mark.peacock@students.plymouth.ac.uk**
+- 📫 How to reach me: **mark.peacock@students.plymouth.ac.uk**
 
 
 
