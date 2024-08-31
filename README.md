@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Peacock</h1>
-<h3 align="center">A Final year computer science student @ Plymouth University</h3>
+<h3 align="center">Recent BSc Computer Science graduate @ University of Plymouth </h3>
 
 Aspiring Software Engineer with an interest in all things Data Science! 
 
