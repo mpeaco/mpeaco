@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark Peacock</h1>
 <h3 align="center">Recent BSc Computer Science graduate @ University of Plymouth </h3>
+<h3 align="center">MSc AI student @ UWE </h3>
 
 Aspiring Software Engineer with an interest in all things Data Science! 
 
