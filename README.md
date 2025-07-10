@@ -4,8 +4,6 @@
 
 Aspiring Software Engineer with an interest in all things Data Science! 
 
-- 🌱 I’m currently learning **R**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mpeaco](https://github.com/mpeaco)
 - My kaggle profile: **https://www.kaggle.com/markpeacock** to see my notebooks and competition attempts!
 
