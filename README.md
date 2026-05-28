@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Peacock</h1>
-<h3 align="center">Recent BSc Computer Science graduate @ University of Plymouth </h3>
-<h3 align="center">MSc AI student @ UWE </h3>
+<h3 align="center">MSc AI Graduate @ UWE </h3>
+<h3 align="center">BSc Computer Science graduate @ University of Plymouth </h3>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/mpeaco](https://github.com/mpeaco)
 - My kaggle profile: **https://www.kaggle.com/markpeacock** to see my notebooks and competition attempts!
